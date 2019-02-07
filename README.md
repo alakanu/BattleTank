@@ -1,2 +1,2 @@
 # BattleTank
-Open-world fight player vs-ai. 
+Open-world fight player vs ai. 
